@@ -26,3 +26,4 @@ new SimpleLightbox('.gallery a', {
     captionDelay: 250,
     });
 console.log(galleryItems);
+
